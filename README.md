@@ -4,7 +4,7 @@ Uygulama programlama arayüzü, bir yazılımın başka bir yazılımda tanımla
 <h3>REST API nedir?</h3>
 
 REST, Web protokolleri ve teknolojilerini kullanan bir dağıtık sistemdir. REST prensiplerini sağlayan sistemler, RESTful olarak sıfatlandırılır. Temsilî Durum Aktarımı ismindeki temsilî, verinin temsilini kastetmekte olup onunla ilgili durumun aktarılması olarak düşünülebilir.
-
+<hr>
 <h3>REST API özellikleri</h3>
 
 Platform bağımsızdır.
