@@ -32,3 +32,4 @@ endif;
 
 set_header($_code);
 echo json_encode($json, JSON_UNESCAPED_UNICODE);
+?>
