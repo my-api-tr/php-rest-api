@@ -68,3 +68,4 @@ function set_header($code)
     header('HTTP/1.1 ' . $code . ' ' . http_status($code));
     header('Content-Type: application/json; charset=utf-8');
 }
+?>
