@@ -7,9 +7,9 @@ REST, Web protokolleri ve teknolojilerini kullanan bir dağıtık sistemdir. RES
 <hr>
 <h3>REST API özellikleri</h3>
 
-Platform bağımsızdır.
-Sunucu ve istemcinin aralarında anlaşabildiği bir json protokolü mevcuttur.
-HTTP methodlarından Get, Post, Put, Delete işlemlerini gerçekleştirebilir.
-Request – Response mantığıyla çalışır.
-Önbellekleme yapılabilir.
-Soaptaki gibi katı kurallar yoktur. Kuralları apiyi yazan kişi belirler.
+Platform bağımsızdır.<br>
+Sunucu ve istemcinin aralarında anlaşabildiği bir json protokolü mevcuttur.<br>
+HTTP methodlarından Get, Post, Put, Delete işlemlerini gerçekleştirebilir.<br>
+Request – Response mantığıyla çalışır.<br>
+Önbellekleme yapılabilir.<br>
+Soaptaki gibi katı kurallar yoktur. Kuralları apiyi yazan kişi belirler.<br>
