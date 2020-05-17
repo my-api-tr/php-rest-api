@@ -25,6 +25,7 @@ elseif ($_method  == 'DELETE'):
 
 else:
 
+    $_code = 400;
     $json['error'] = TRUE;
     $json['message'] = $_method . ' yöntemi kullanılamaz.';
 
